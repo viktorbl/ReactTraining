@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Countries from '../src/components/Countries';
-import Table from '../src/components/Countries';
+import Table from '../src/components/Table';
 
 class App extends Component {
   render() {
